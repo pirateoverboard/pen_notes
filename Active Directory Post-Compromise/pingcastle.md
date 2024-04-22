@@ -1,0 +1,1 @@
+needs to run a domain joined computer and need administrative command prompt

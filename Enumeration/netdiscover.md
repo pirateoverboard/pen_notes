@@ -1,0 +1,1 @@
+`netdiscover -r <network>`
